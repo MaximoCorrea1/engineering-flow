@@ -1,0 +1,7 @@
+{
+  "name": "engineering-flow",
+  "owner": "MaximoCorrea1",
+  "plugins": [
+    { "name": "engineering-flow", "source": "./", "description": "Engineering curated Flow: brainstorm → plan → TDD → debug → review → ship." }
+  ]
+}
