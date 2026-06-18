@@ -7,7 +7,7 @@ This is the recommended **cross-source successor to `superpowers-flow`**. Where 
 ## Install
 
 ```
-/flowy engineering-flow
+/flowy:engineering-flow
 ```
 
 ## What it routes
