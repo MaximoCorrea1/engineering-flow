@@ -1,5 +1,0 @@
-{
-  "name": "engineering-flow",
-  "private": true,
-  "scripts": { "test": "bun test" }
-}
