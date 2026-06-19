@@ -1,6 +1,6 @@
 ---
 name: engineering-flow
-description: Cross-source engineering skills + a FLOW.md router. Brainstorm, plan, TDD, debug, review, verify, ship.
+description: Ship features the disciplined way: brainstorm, plan, build test-first, debug at the root, review, and ship with care.
 version: 0.1.0
 license: MIT
 domain: software-engineering

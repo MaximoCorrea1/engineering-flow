@@ -1,6 +1,7 @@
 # FLOW.md: Engineering
 
-> Routes a curated, cross-source set of engineering skills so the right one fires at each phase of building a feature: brainstorm the spec, write the plan, drive it with tests, debug failures at the root, review the diff, verify against reality, then ship safely.
+> Ship features the disciplined way, from idea to production. This Flow walks you through brainstorming the spec, planning, building test-first, debugging failures at the root, reviewing the diff, verifying, then shipping.
+
 > Skills vendored from obra/superpowers, EveryInc/compound-engineering, and addyosmani/agent-skills (all MIT) — see ATTRIBUTION.md. Routing by Flowy.
 
 <!-- The Flowy engine supplies the universal contract (announce ritual, invoke/READ,
